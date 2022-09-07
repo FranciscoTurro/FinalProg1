@@ -1,0 +1,14 @@
+C:\Users\fturr\source\repos\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\bin\Debug\TPFinal-Turró-Ej1.exe.config
+C:\Users\fturr\source\repos\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\bin\Debug\TPFinal-Turró-Ej1.exe
+C:\Users\fturr\source\repos\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\bin\Debug\TPFinal-Turró-Ej1.pdb
+C:\Users\fturr\source\repos\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.csproj.AssemblyReference.cache
+C:\Users\fturr\source\repos\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.csproj.CoreCompileInputs.cache
+C:\Users\fturr\source\repos\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.exe
+C:\Users\fturr\source\repos\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.pdb
+C:\Users\fturr\Desktop\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\bin\Debug\TPFinal-Turró-Ej1.exe.config
+C:\Users\fturr\Desktop\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\bin\Debug\TPFinal-Turró-Ej1.exe
+C:\Users\fturr\Desktop\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\bin\Debug\TPFinal-Turró-Ej1.pdb
+C:\Users\fturr\Desktop\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.csproj.AssemblyReference.cache
+C:\Users\fturr\Desktop\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.csproj.CoreCompileInputs.cache
+C:\Users\fturr\Desktop\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.exe
+C:\Users\fturr\Desktop\TPFinal-Turró-Ej1\TPFinal-Turró-Ej1\obj\Debug\TPFinal-Turró-Ej1.pdb
